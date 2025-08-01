@@ -1,0 +1,90 @@
+
+composeAni.png
+size: 844,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sk/1_00000
+  rotate: true
+  xy: 596, 8
+  size: 150, 126
+  orig: 182, 211
+  offset: 11, 40
+  index: -1
+images/sk/1_00002
+  rotate: false
+  xy: 0, 0
+  size: 151, 150
+  orig: 182, 211
+  offset: 13, 31
+  index: -1
+images/sk/1_00004
+  rotate: false
+  xy: 326, 160
+  size: 160, 153
+  orig: 182, 211
+  offset: 10, 36
+  index: -1
+images/sk/1_00006
+  rotate: false
+  xy: 163, 156
+  size: 163, 157
+  orig: 182, 211
+  offset: 9, 33
+  index: -1
+images/sk/1_00008
+  rotate: false
+  xy: 0, 150
+  size: 163, 163
+  orig: 182, 211
+  offset: 10, 29
+  index: -1
+images/sk/1_00010
+  rotate: false
+  xy: 486, 158
+  size: 157, 155
+  orig: 182, 211
+  offset: 11, 36
+  index: -1
+images/sk/1_00012
+  rotate: false
+  xy: 309, 2
+  size: 145, 154
+  orig: 182, 211
+  offset: 9, 32
+  index: -1
+images/sk/1_00014
+  rotate: true
+  xy: 643, 167
+  size: 146, 156
+  orig: 182, 211
+  offset: 7, 25
+  index: -1
+images/sk/1_00016
+  rotate: false
+  xy: 163, 0
+  size: 146, 156
+  orig: 182, 211
+  offset: 6, 20
+  index: -1
+images/sk/1_00018
+  rotate: false
+  xy: 454, 21
+  size: 142, 137
+  orig: 182, 211
+  offset: 8, 15
+  index: -1
+images/sk/1_00020
+  rotate: true
+  xy: 722, 28
+  size: 139, 122
+  orig: 182, 211
+  offset: 9, 11
+  index: -1
+images/sk/1_00022
+  rotate: false
+  xy: 151, 34
+  size: 12, 116
+  orig: 182, 211
+  offset: 133, 8
+  index: -1
